@@ -6,7 +6,7 @@
       "title": "São João na Fazenda",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum lacinia massa sed fermentum.",
       "location": "Luziânia - GO",
-      "date": "Junho 20, 2022",
+      "date": "20 de Junho, 2022",
       "time": "12:00",
       "organizer": "José Ferreira"
     },
@@ -16,7 +16,7 @@
       "title": "Festa da Cerveja",
       "description": "Duis vel malesuada ligula. In ultricies imperdiet nulla vitae malesuada. Praesent consequat, mi quis rutrum tincidunt, erat nunc convallis eros.",
       "location": "Lago Sul - DF",
-      "date": "Julho 26, 2022",
+      "date": "26 de Julho, 2022",
       "time": "10:00",
       "organizer": "Fernando Duca"
     },
@@ -26,7 +26,7 @@
       "title": "Fantasy Fest",
       "description": "Aliquam risus felis, lobortis lobortis placerat sit amet, fermentum ac diam. Pellentesque pretium condimentum leo, quis elementum nulla rhoncus in. Integer sit amet luctus nibh, non efficitur arcu.",
       "location": "Mané Garrinha - DF",
-      "date": "Agosto  22, 2022",
+      "date": "07 de Agosto, 2022",
       "time": "11:00",
       "organizer": "Gustavo Carvalho"
     }
